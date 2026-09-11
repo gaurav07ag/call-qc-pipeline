@@ -1,0 +1,2 @@
+assemblyai>=0.30.0
+anthropic>=0.40.0

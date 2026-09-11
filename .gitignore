@@ -1,0 +1,14 @@
+service_account.json
+*.env
+.env
+qc_results/
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.ogg
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
