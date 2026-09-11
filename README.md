@@ -1,4 +1,4 @@
-# Roofing Lead-Gen QC Verification System
+# Call-qc-pipeline System
 
 Automatically transcribes call recordings and checks them against your
 11-point qualification script, marking each call **QC_VALID** or
