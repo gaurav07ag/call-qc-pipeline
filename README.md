@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 Get API keys:
 - **AssemblyAI** (transcription + speaker labels): https://www.assemblyai.com/
-  Free tier available; paid usage is roughly $0.12–0.27 per call hour.
+  Free tier available; paid usage is roughly $0.12–0.27 per call hour....
 - **Anthropic** (QC verification): https://console.anthropic.com/
   You already have this if you're using Claude.
 
