@@ -44,7 +44,7 @@ python qc_verify.py path/to/recordings_folder/
   for that call
 - `qc_results/qc_log.csv` — one row per call with verdict, reason, and
   which items need human review. Open this in Excel/Google Sheets and
-  filter by verdict to focus your QC team's time.
+  filter by verdict to focus your QC team's time.......
 
 ## 4. Editing the checklist
 
