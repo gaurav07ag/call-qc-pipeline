@@ -23,7 +23,7 @@ export ASSEMBLYAI_API_KEY="your_key_here"
 export ANTHROPIC_API_KEY="your_key_here"
 ```
 
-(On Windows, use `set ASSEMBLYAI_API_KEY=your_key_here` in Command Prompt,
+(On Windows, use `set ASSEMBLYAI_API_KEY=your_key_here` in Command Prompt,,,,,,
 or add them in System Environment Variables.)
 
 ## 2. Run it
