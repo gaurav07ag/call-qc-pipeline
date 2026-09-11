@@ -46,7 +46,7 @@ python qc_verify.py path/to/recordings_folder/
   which items need human review. Open this in Excel/Google Sheets and
   filter by verdict to focus your QC team's time.......
 
-## 4. Editing the checklist
+## 4. Editing the checklist:-------
 
 Open `qc_checklist.py`. Each item has:
 - `item` — the question/requirement in plain English
