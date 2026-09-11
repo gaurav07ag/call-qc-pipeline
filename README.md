@@ -2,7 +2,7 @@
 
 Automatically transcribes call recordings and checks them against your
 11-point qualification script, marking each call **QC_VALID** or
-**QC_NOT_VALID** with evidence for every checklist item...
+**QC_NOT_VALID** with evidence for every checklist item......
 
 ## 1. Setup
 
