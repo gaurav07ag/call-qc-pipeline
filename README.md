@@ -16,7 +16,7 @@ Get API keys:
 - **Anthropic** (QC verification): https://console.anthropic.com/
   You already have this if you're using Claude.
 
-Set them as environment variables:
+Set them as environment variables:-----
 
 ```bash
 export ASSEMBLYAI_API_KEY="your_key_here"
